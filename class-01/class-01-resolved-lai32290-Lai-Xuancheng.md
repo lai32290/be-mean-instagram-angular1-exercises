@@ -8,7 +8,7 @@ MVP (Model View Presenter): Model fornece os dados, View é a camada onde mostra
 
 ## 2 - Crie uma aplicação com um nome e um form onde os dados colocados neles sejam mostrados logo abaixo, formatados.
 
-```
+```html
 <html ng-app="beMean">
 <head>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
